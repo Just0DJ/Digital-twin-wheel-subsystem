@@ -1,6 +1,3 @@
-# Digital Twin Wheel subsystem
-Organisation: MaRS Rover Students club
-
 🔹 Project Title
 
 Beginner-Level Digital Twin for a Student Rover (Wheel Subsystem)
@@ -22,48 +19,72 @@ This project aims to create a scalable framework that works even with partial or
 🔹 Current Status
 
 Be transparent:
-> Status: Early-stage
-> System definition completed
-> Asset Information Model (AIM) drafted
-> Data availability identified
-> Initial energy-model planning in progress
+
+Status: Early-stage
+
+System definition completed
+
+Asset Information Model (AIM) drafted
+
+Data availability identified
+
+Initial energy-model planning in progress
 
 🔹 Asset Focus (v1)
 
-**Subsystem: Rover Wheel**
-> Drive motor
-> Wheel geometry
-> Battery interaction
-> Operational states
+Subsystem: Rover Wheel
+
+Drive motor
+
+Wheel geometry
+
+Battery interaction
+
+Operational states
 
 🔹 Data Reality
 
 This builds trust:
-**Available Data:**
-> Battery voltage logs
-> Motor runtime
-> Operational states
 
-**Planned / Ideal Data:**
-> Current sensing
-> Torque estimation
-> IMU & vibration
+Available Data:
+
+Battery voltage logs
+
+Motor runtime
+
+Operational states
+
+Planned / Ideal Data:
+
+Current sensing
+
+Torque estimation
+
+IMU & vibration
 
 🔹 Roadmap (High-Level)
 
-**Simple bullets:**
-> Define wheel asset & AIM
-> Build basic energy model
-> Create telemetry visualizations
-> Introduce simple optimization insights
-> Scale to additional subsystems
+Simple bullets:
+
+ Define wheel asset & AIM
+
+ Build basic energy model
+
+ Create telemetry visualizations
+
+ Introduce simple optimization insights
+
+ Scale to additional subsystems
 
 🔹 Tech Stack (Tentative)
 
-**You can keep this flexible:**
-> Python (data analysis & modeling)
-> CSV / JSON logs
-> Matplotlib / Plotly (visualization)
+You can keep this flexible:
+
+Python (data analysis & modeling)
+
+CSV / JSON logs
+
+Matplotlib / Plotly (visualization)
 
 Jupyter Notebooks
 
